@@ -1,2 +1,2 @@
-# big-data
-This repository contains some practice big data project I worked or currently working on
+# Spark Example Project
+This repository contains some Spark example projects I worked or currently working on
